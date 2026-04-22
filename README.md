@@ -1,4 +1,4 @@
-# get 2 know sam y sus gustos
+# get 2 know sam
 
 en mi primer sitio web describo un poco mis preferencias personales
 y muestro algunas imagenes que me parecen cutes
